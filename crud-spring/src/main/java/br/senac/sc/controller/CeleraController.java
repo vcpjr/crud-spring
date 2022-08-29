@@ -14,7 +14,7 @@ public class CeleraController {
 	@GetMapping
 	public List<String> celeraMuito() {
 		ArrayList<String> lista = new ArrayList<String>();
-		lista.add("PASSEI PORRRAAAAAAAAAAAAAA");
+		lista.add("PASSEIIIIIIIIIIII");
 		lista.add("Minha Nossa Sinhora");
 		
 		return lista;
